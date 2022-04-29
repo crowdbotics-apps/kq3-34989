@@ -57,7 +57,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-user-profile](modules/user-profile)
 - [terms-and-conditions]()
-- [react-native-push-notifications](modules/push-notifications)
 - [react-native-chat](modules/chat)
 - [react-native-onboarding](modules/onboarding)
 - [react-native-maps](modules/maps)
